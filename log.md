@@ -12,5 +12,7 @@
 
 
 
-
+### Day 1: October 1, 2017
+**Today's Progress:** Completed the quick start guide of react official docs
+**Thoughts:** Need to work on es6 classes and oops basics
 
