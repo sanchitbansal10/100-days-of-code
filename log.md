@@ -13,6 +13,9 @@
 
 
 ### Day 1: October 1, 2017
-**Today's Progress:** Completed the quick start guide of react official docs
+**Today's Progress:** Completed the quick start guide of react official docs and made calculator for fcc
 **Thoughts:** Need to work on es6 classes and oops basics
 
+### Day 2: October 2, 2017
+**Today's Progress:** did git from fcc
+**Thoughts:** 
